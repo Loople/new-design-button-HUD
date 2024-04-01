@@ -24,6 +24,9 @@ wget https://raw.githubusercontent.com/Loople/Transparant-button-HUD/main/textur
 
 Jalankan gamenya lalu pergi ke opsi *dynos* dan hidupkan `TButton`, lalu pergi *hosting* atau bergabung dengan server orang dan mainkan dengan desain tombol yang baru.
 
+![Gambar](https://i.imgur.com/K6K2GSy.jpeg)
+__________________________________________________
+
 ## Tombol *Touchscreen* HD
 
 Tombol *Touchscreen* HD dari dari [JustOlaia](https://github.com/JustOlaia).
@@ -44,6 +47,6 @@ wget https://raw.githubusercontent.com/JustOlaia/sm64ex-coop-apk/coop/textures/t
 ```
 
 Jalankan gamenya lalu pergi ke opsi *dynos* dan hidupkan `gfx`.
+
+![Gambar](https://i.imgur.com/KEu0aSx.jpeg)
 __________________________________________________
-
-
